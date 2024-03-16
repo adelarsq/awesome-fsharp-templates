@@ -25,6 +25,10 @@
 
 - [adelarsq/suave_graphql_sample](https://github.com/adelarsq/suave_graphql_sample) - Suave GraphQL Sample
 
+### Oxpecker
+
+- [Oxpecker CRUD example](https://github.com/Lanayx/Oxpecker/tree/develop/examples/CRUD)
+
 ## List
 
 ### AutoCad
